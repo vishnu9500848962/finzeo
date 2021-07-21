@@ -6,7 +6,7 @@
 .header{
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(11, 11, 12, 0.7),rgba(21, 22, 24, 0.7)),url(../finzeo/images/banner.jpg);
+    background-image: linear-gradient(rgba(11, 11, 12, 0.7),rgba(21, 22, 24, 0.7)),url(../images/banner.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
